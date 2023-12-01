@@ -1,5 +1,5 @@
 ### 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alleyesonmemfk&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alleyesonmemfk&theme=apprentice)
 <!--
 **alleyesonmemfk/alleyesonmemfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
