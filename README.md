@@ -1,5 +1,5 @@
 <div class="header" align="center">
-  <h2> Привет 👋 Меня зовут Вадим.</h2>
+  <h2> Привет 👋 Меня зовут Вадим. Я фронтенд разработчик</h2>
   <div class="badges">
     <a href="https://t.me/alleyesonmemfk">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
