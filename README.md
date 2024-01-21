@@ -1,8 +1,17 @@
-### 👋
+<div class="header" align="center">
+  <h2> Привет 👋 Меня зовут Вадим.</h2>
+  <div id="badges">
+    <a href="https://t.me/alleyesonmemfk">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+</div>
 
+<!-- ### 👋 -->
+<!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alleyesonmemfk&theme=apprentice)
 
-[![LeetCode user alleyesonmemfk](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falleyesonmemfk&logo=leetcode&logoColor=yellow)](https://leetcode.com/alleyesonmemfk/)
+[![LeetCode user alleyesonmemfk](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falleyesonmemfk&logo=leetcode&logoColor=yellow)](https://leetcode.com/alleyesonmemfk/) -->
 
 <!--
 **alleyesonmemfk/alleyesonmemfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
